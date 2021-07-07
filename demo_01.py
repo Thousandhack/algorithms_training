@@ -1,19 +1,17 @@
-def BinarySearch(array, t):
-    low = 0
-    height = len(array) - 1
-    while low < height:
-        mid = (low + height) // 2
-        if array[mid] < t:
-            low = mid + 1
-
-        elif array[mid] > t:
-            height = mid - 1
-
+def two_sum(nums, target):
+    """
+    解题思路为:
+        将所给列表都循环一遍,另外一个数一定为和减去第一个数
+        如果 num not in dict_demo存在,就说明找到 i 的另外一个数和为target了
+        一个数是通过字典找到位置,一个是通过循环的第几次找到位置
+    :param nums:
+    :param target:
+    :return:
+    """
+    dict_demo = {}
+    for i in range(0, len(nums)):
+        num = target - nums[i]
+        if num not in dict_demo:
+            dict_demo[nums[i]] = i
         else:
-            return mid
-
-    return -1
-
-
-if __name__ == "__main__":
-    print(BinarySearch([1, 2, 3, 34, 56, 57, 78, 87], 56))
+            return [dict_demo[num], i]

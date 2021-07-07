@@ -15,4 +15,4 @@ def greatest(p, q):
 
 
 if __name__ == "__main__":
-    print(greatest(3, 6))
+    print(greatest(18, 9))

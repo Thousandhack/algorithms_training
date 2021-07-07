@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a247c070-6b65-48fa-9b0b-f0535a1d9553" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/03_printListFromTailToHead.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_printListFromTailToHead.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subject_demo/111.py" beforeDir="false" afterPath="$PROJECT_DIR$/subject_demo/111.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subject_demo/the_cache_decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/subject_demo/the_cache_decorator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the_train/HJ15.py" beforeDir="false" afterPath="$PROJECT_DIR$/the_train/HJ15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the_train/HJ7.py" beforeDir="false" afterPath="$PROJECT_DIR$/the_train/HJ7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm_to_revisit/01_base/binary_search_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_to_revisit/01_base/binary_search_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm_to_revisit/01_base/greatest_common_divisor.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_to_revisit/01_base/greatest_common_divisor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,42 +19,69 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review_sort/03_insert_sort/insert_sort_demo.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review_sort/04_shell_sort/Sorting_shellsort_anim.gif">
+        <entry file="file://$PROJECT_DIR$/review_sort/06_quick_sort/quickSort.gif">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review_sort/04_shell_sort/shell_sort_demo_01.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/review_sort/01_bubble_sort/bubble_sort_demo_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/01_twoSum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm_to_revisit/01_base/greatest_common_divisor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/1365_smallerNumbersThanCurrent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/review_sort/06_quick_sort/quick_sost_demo_01.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review_sort/02_select_sort/select_sort_demo.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/demo_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review_sort/05_merge_sort/merge_sort_demo_03.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review_sort/05_merge_sort/merge_sort_demo_01.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review_sort/01_bubble_sort/bubble_sort_demo_01.py">
+        <entry file="file://$PROJECT_DIR$/review_sort/01_bubble_sort/bubble_sort_demo_02.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -103,34 +132,29 @@
         <option value="$PROJECT_DIR$/the_train/HJ15.py" />
         <option value="$PROJECT_DIR$/subject_demo/the_cache_decorator.py" />
         <option value="$PROJECT_DIR$/subject_demo/111.py" />
-        <option value="$PROJECT_DIR$/demo_01.py" />
         <option value="$PROJECT_DIR$/review_test/train_test/18_the_num_demo.py" />
         <option value="$PROJECT_DIR$/data_structure/queue_demo.py" />
         <option value="$PROJECT_DIR$/data_structure/stack_demo.py" />
         <option value="$PROJECT_DIR$/review_sort/train_test/10_a_b_c_demo.py" />
         <option value="$PROJECT_DIR$/review_sort/train_test/19_a_b_c_demo.py" />
+        <option value="$PROJECT_DIR$/algorithm_to_revisit/01_base/binary_search_demo.py" />
+        <option value="$PROJECT_DIR$/demo_01.py" />
+        <option value="$PROJECT_DIR$/algorithm_to_revisit/01_base/greatest_common_divisor.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-510" />
-    <option name="y" value="222" />
-    <option name="width" value="2420" />
-    <option name="height" value="1072" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,73 +162,27 @@
               <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_offer" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_offer" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_offer" type="462c0819:PsiDirectoryNode" />
-              <item name="review_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_offer" type="462c0819:PsiDirectoryNode" />
-              <item name="review_sort" type="462c0819:PsiDirectoryNode" />
-              <item name="01_bubble_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_offer" type="462c0819:PsiDirectoryNode" />
-              <item name="review_sort" type="462c0819:PsiDirectoryNode" />
-              <item name="02_select_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_offer" type="462c0819:PsiDirectoryNode" />
-              <item name="review_sort" type="462c0819:PsiDirectoryNode" />
-              <item name="03_insert_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_offer" type="462c0819:PsiDirectoryNode" />
-              <item name="review_sort" type="462c0819:PsiDirectoryNode" />
-              <item name="04_shell_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_offer" type="462c0819:PsiDirectoryNode" />
-              <item name="review_sort" type="462c0819:PsiDirectoryNode" />
-              <item name="05_merge_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_offer" type="462c0819:PsiDirectoryNode" />
-              <item name="review_sort" type="462c0819:PsiDirectoryNode" />
-              <item name="06_quick_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_offer" type="462c0819:PsiDirectoryNode" />
-              <item name="review_sort" type="462c0819:PsiDirectoryNode" />
-              <item name="bubble_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_other" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pyCode\python_base\python_offer\algorithm_to_revisit\01_base" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pyCode\python_base\python_offer\algorithm_to_revisit" />
       <recent name="D:\pyCode\python_base\python_offer\review_sort" />
       <recent name="D:\pyCode\python_base\python_offer" />
       <recent name="D:\pyCode\python_base\python_offer\data_structure" />
@@ -223,8 +201,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.19_a_b_c_demo">
-    <configuration name="18_the_num_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.greatest_common_divisor">
+    <configuration name="01_twoSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,12 +210,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/review_test/train_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/review_test/train_test/18_the_num_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/01_twoSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,6 +246,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="binary_search_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_offer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm_to_revisit/01_base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_to_revisit/01_base/binary_search_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="demo_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="queue_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="greatest_common_divisor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,34 +298,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm_to_revisit/01_base" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/queue_demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="stack_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_offer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/stack_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_to_revisit/01_base/greatest_common_divisor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,11 +314,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.19_a_b_c_demo" />
-        <item itemvalue="Python.queue_demo" />
-        <item itemvalue="Python.stack_demo" />
-        <item itemvalue="Python.18_the_num_demo" />
+        <item itemvalue="Python.greatest_common_divisor" />
         <item itemvalue="Python.demo_01" />
+        <item itemvalue="Python.01_twoSum" />
+        <item itemvalue="Python.binary_search_demo" />
+        <item itemvalue="Python.19_a_b_c_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -381,22 +359,34 @@
       <workItem from="1617117442823" duration="618000" />
       <workItem from="1617191061593" duration="599000" />
       <workItem from="1617596941059" duration="343000" />
+      <workItem from="1618501611596" duration="2492000" />
+      <workItem from="1618753981345" duration="2393000" />
+      <workItem from="1618789512543" duration="2019000" />
+      <workItem from="1619440988506" duration="1996000" />
+      <workItem from="1620058561913" duration="16000" />
+      <workItem from="1620563329835" duration="3401000" />
+      <workItem from="1621299408841" duration="902000" />
+      <workItem from="1621649879940" duration="1201000" />
+      <workItem from="1621782403830" duration="595000" />
+      <workItem from="1621864947221" duration="1195000" />
+      <workItem from="1621985223427" duration="594000" />
+      <workItem from="1622070675281" duration="21000" />
+      <workItem from="1625671236012" duration="649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52994000" />
+    <option name="totallyTimeSpent" value="70468000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-408" y="178" width="1936" height="857" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21299255" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25134048" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.13774404" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21908894" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -405,8 +395,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.25070822" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.41931033" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.44334278" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.4197397" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -420,18 +410,20 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_offer$demo_01__1_.coverage" NAME="demo_01 (1) Coverage Results" MODIFIED="1603711931552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_offer$queue_demo.coverage" NAME="queue_demo Coverage Results" MODIFIED="1616512658602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
+    <SUITE FILE_PATH="coverage/python_offer$greatest_common_divisor.coverage" NAME="greatest_common_divisor Coverage Results" MODIFIED="1621393984994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm_to_revisit/01_base" />
     <SUITE FILE_PATH="coverage/python_offer$the_cache_decorator.coverage" NAME="the_cache_decorator Coverage Results" MODIFIED="1615988456595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/subject_demo" />
     <SUITE FILE_PATH="coverage/python_offer$stack_demo.coverage" NAME="stack_demo Coverage Results" MODIFIED="1616511756105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
+    <SUITE FILE_PATH="coverage/python_offer$binary_search_demo.coverage" NAME="binary_search_demo Coverage Results" MODIFIED="1618791104288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm_to_revisit/01_base" />
     <SUITE FILE_PATH="coverage/python_offer$1365_.coverage" NAME="1365_ Coverage Results" MODIFIED="1603726443417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/python_offer$test.coverage" NAME="test Coverage Results" MODIFIED="1603622389122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_offer$111.coverage" NAME="111 Coverage Results" MODIFIED="1615989152711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/subject_demo" />
     <SUITE FILE_PATH="coverage/python_offer$18_the_num_demo.coverage" NAME="18_the_num_demo Coverage Results" MODIFIED="1616071591632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review_test/train_test" />
     <SUITE FILE_PATH="coverage/python_offer$03_printListFromTailToHead.coverage" NAME="03_printListFromTailToHead Coverage Results" MODIFIED="1603525097182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_offer$demo_01.coverage" NAME="demo_01 Coverage Results" MODIFIED="1616069815243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_offer$demo_01.coverage" NAME="demo_01 Coverage Results" MODIFIED="1620570515354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_offer$19_a_b_c_demo.coverage" NAME="19_a_b_c_demo Coverage Results" MODIFIED="1616595396648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review_sort/train_test" />
     <SUITE FILE_PATH="coverage/python_offer$int_value.coverage" NAME="int_value Coverage Results" MODIFIED="1615473650974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/the_train" />
     <SUITE FILE_PATH="coverage/python_offer$02_repalce_blank.coverage" NAME="02_repalce_blank Coverage Results" MODIFIED="1603515578646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_offer$01_twoSum.coverage" NAME="01_twoSum Coverage Results" MODIFIED="1607869069028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/python_offer$01_twoSum.coverage" NAME="01_twoSum Coverage Results" MODIFIED="1620563726108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py" />
@@ -439,13 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/01_twoSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -473,24 +458,10 @@
     <entry file="file://$PROJECT_DIR$/Leetcode/720_longestWord.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/1365_smallerNumbersThanCurrent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_reconstruction_tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -532,14 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="13" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -590,16 +553,62 @@
     <entry file="file://$PROJECT_DIR$/review_sort/04_shell_sort/shell_sort_demo_01.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/review_sort/02_select_sort/select_sort_demo.py">
+    <entry file="file://$PROJECT_DIR$/review_sort/train_test/01_day_of_year.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/review_sort/05_merge_sort/merge_sort_demo_03.py">
+    <entry file="file://$PROJECT_DIR$/review_sort/train_test/02_upset_list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review_sort/02_select_sort/select_sort_demo.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/review_sort/05_merge_sort/merge_sort_demo_01.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/review_sort/05_merge_sort/merge_sort_demo_03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review_sort/06_quick_sort/quick_sost_demo_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm_to_revisit/01_base/binary_search_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review_sort/01_bubble_sort/bubble_sort_demo_04.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review_sort/06_quick_sort/quick_sort_demo_02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review_sort/06_quick_sort/quickSort.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/review_sort/01_bubble_sort/bubble_sort_demo_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/01_twoSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review_sort/01_bubble_sort/bubble_sort_demo_02.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/review_sort/train_test/18_the_num_demo.py">
@@ -616,8 +625,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/review_sort/06_quick_sort/quick_sost_demo_01.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/algorithm_to_revisit/01_base/greatest_common_divisor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/1365_smallerNumbersThanCurrent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
