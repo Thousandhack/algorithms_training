@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a247c070-6b65-48fa-9b0b-f0535a1d9553" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/leetcode_0007.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_to_revisit/01_base/binary_search_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_to_revisit/01_base/binary_search_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_to_revisit/01_base/greatest_common_divisor.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_to_revisit/01_base/greatest_common_divisor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/01_twoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/leectcode_0001.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode/01_twoSum.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leetcode/leectcode_0001.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="374">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -59,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -145,10 +141,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -162,6 +158,16 @@
               <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_offer" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_offer" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_offer" type="462c0819:PsiDirectoryNode" />
+              <item name="the_train" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -172,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Leetcode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -201,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.greatest_common_divisor">
+  <component name="RunManager" selected="Python.01_twoSum">
     <configuration name="01_twoSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +221,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/01_twoSum.py" />
+      <option name="SCRIPT_NAME" value="D:\pyCode\python_base\python_offer\Leetcode\leectcode_0001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,9 +320,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_twoSum" />
         <item itemvalue="Python.greatest_common_divisor" />
         <item itemvalue="Python.demo_01" />
-        <item itemvalue="Python.01_twoSum" />
         <item itemvalue="Python.binary_search_demo" />
         <item itemvalue="Python.19_a_b_c_demo" />
       </list>
@@ -371,22 +377,24 @@
       <workItem from="1621864947221" duration="1195000" />
       <workItem from="1621985223427" duration="594000" />
       <workItem from="1622070675281" duration="21000" />
-      <workItem from="1625671236012" duration="649000" />
+      <workItem from="1625671236012" duration="1031000" />
+      <workItem from="1635261589726" duration="1621000" />
+      <workItem from="1635434273899" duration="509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70468000" />
+    <option name="totallyTimeSpent" value="72980000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25134048" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20522387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21908894" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2181303" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -395,7 +403,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.44334278" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.35791758" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.4197397" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -423,7 +431,7 @@
     <SUITE FILE_PATH="coverage/python_offer$19_a_b_c_demo.coverage" NAME="19_a_b_c_demo Coverage Results" MODIFIED="1616595396648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/review_sort/train_test" />
     <SUITE FILE_PATH="coverage/python_offer$int_value.coverage" NAME="int_value Coverage Results" MODIFIED="1615473650974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/the_train" />
     <SUITE FILE_PATH="coverage/python_offer$02_repalce_blank.coverage" NAME="02_repalce_blank Coverage Results" MODIFIED="1603515578646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_offer$01_twoSum.coverage" NAME="01_twoSum Coverage Results" MODIFIED="1620563726108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/python_offer$01_twoSum.coverage" NAME="01_twoSum Coverage Results" MODIFIED="1635262012119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py" />
@@ -594,10 +602,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/01_twoSum.py">
+    <entry file="file://$PROJECT_DIR$/algorithm_to_revisit/01_base/greatest_common_divisor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="352">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/1365_smallerNumbersThanCurrent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -625,27 +650,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm_to_revisit/01_base/greatest_common_divisor.py">
+    <entry file="file://$PROJECT_DIR$/Leetcode/leectcode_0001.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/1365_smallerNumbersThanCurrent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="374">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
         </state>
       </provider>
     </entry>
