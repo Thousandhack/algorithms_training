@@ -1,4 +1,4 @@
-from typing import List
+# -*- coding:utf-8 -*-
 
 """
 14. 最长公共前缀
