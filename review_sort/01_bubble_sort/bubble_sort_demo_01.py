@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-__author__ = "hsz"
+# __author__ = "hsz"
 """
 冒泡排序算法的工作原理如下：
     1.  比较相邻的元素。如果第一个比第二个大（升序），就交换他们两个。
